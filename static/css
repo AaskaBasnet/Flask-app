@@ -1,0 +1,10 @@
+h1 {
+    color: #9ACD32;
+    font-family: "Lora";
+    text-align: center;
+}
+#rectangle {
+    width: 500px;
+    height: 150px;
+    background: pink;
+}
